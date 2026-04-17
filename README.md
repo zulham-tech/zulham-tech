@@ -1,4 +1,4 @@
-# Hi, I'm Ahmad Zulham Hamdan 👋
+# Hi, I'm Ahmad Zulham 👋
 
 **Data Engineer & Backend Developer** | Remote & Freelance | Indonesia 🇮🇩
 
@@ -59,7 +59,7 @@ ML Engineering       ███████████░░░░░░░░�
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-zulham-665170279)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zulhamhamdan28@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zulham.va@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://zulham-tech.github.io)
 
 > Open to remote contracts, freelance data engineering projects, and full-time remote roles globally.

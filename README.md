@@ -1,7 +1,6 @@
 # Hi, I'm Ahmad Zulham 👋
 
-**Data Engineer & Backend Developer** | Remote & Freelance | Indonesia 🇮🇩
-
+**Data Engineer | Streaming & Cloud Pipelines** | Remote & Freelance | Indonesia 🇮🇩
 I build scalable data pipelines, real-time streaming architectures, and data platform solutions for startups and enterprises across APAC and beyond.
 
 ---
